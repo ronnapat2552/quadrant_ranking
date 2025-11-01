@@ -1,5 +1,5 @@
 # Quadrant Ranking
-== A 2D Tier List made with Python + Tkinter ==
+== A 2D Tier List made with Python + Qt6 ==
 
 **Quadrant Ranking** is a Python application built with Qt6 that allows you to create two-dimensional tier lists. Unlike traditional tier lists that rank items along a single axis, Quadrant Ranking lets you evaluate items along both X and Y axes, providing a more nuanced visualization of how items relate to each other.
 
